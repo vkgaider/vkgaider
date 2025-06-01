@@ -1,0 +1,6 @@
+title: Blog & Informative Site
+description: A simple blog and information website powered by Jekyll and GitHub Pages.
+baseurl: ""
+url: "https://vkgaider.github.io"
+theme: minima
+author: vkgaider
